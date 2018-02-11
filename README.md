@@ -31,7 +31,7 @@ Instructions
   
 * Find the libraries in the libs directory. Find a zip of librubberband for various architectures in the release directory.
 
-* You can also download [prebuilt-binaries](https://github.com/koendv/rubberband/raw/master/release/rubberband.zip)
+* You can also download [prebuilt-binaries](https://github.com/koendv/rubberband/releases/download/v1.8.1/rubberband.zip)
 
 To Do
 ----
