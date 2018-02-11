@@ -184,7 +184,7 @@ void system_specific_initialise()
     fesetenv(FE_DFL_DISABLE_SSE_DENORMS_ENV);
 #endif
 #endif
-#if defined __ARMEL__
+#if defined ARM_RUNFAST
     static const unsigned int x = 0x04086060;
     static const unsigned int y = 0x03000000;
     int r;
